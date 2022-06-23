@@ -8,3 +8,6 @@
 * Add arquivos css
     - npm i tailwindcss postcss autoprefixer -D
     - npx tailwindcss init -p       
+
+* Add plugin de Date Fns
+    - npm i date-fns 
