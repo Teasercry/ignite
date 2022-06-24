@@ -11,3 +11,9 @@
 
 * Add plugin de Date Fns
     - npm i date-fns 
+
+* Add VimeJS
+    - npm i @vime/core @vime/react --force
+
+* Add React router dom
+    - npm i react-router-dom
